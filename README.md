@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Rangel</h1>
 <h3 align="center">A passionate Full stack Developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Tropical Devs**
+- 🔭 I’m currently working on **Pesonal Proyects**
 
 - 🌱 I’m currently learning **GrphQL, NextJs**
 
